@@ -7,6 +7,3 @@ Penting !!!
 1. 0perasi yang tersedia adalah: *(kali), /(bagi), +(tambah), -(kurang) (jangan gunakan tanda operator lain)
 2. Masukkan input sesuai perintah
 3. Untuk memasukkan angka desimal menggunakan "." (titik) bukan koma
-
-Terima Kasih ^^
-Created by Nur Shifa Dani
